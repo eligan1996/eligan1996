@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Erwin! 👋
 
-<!--
-**eligan1996/eligan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am seeking to be a developer someday and am currently self-studying Python.
+
+I believe the best way for me to learn Python is in the application of building games.
+
+That is way I am going the Al Sweigart’s book Invent Your Own Computer Games with Python.
+
+- 🌱 Currently learning: Git and Github
+- 📫 How to reach me: erwin.ligan@icloud.com
+- ⚡ Fun fact: **I love to go for a walk in my neighborhood.
+
+## Get in Touch 📬
+
+LinkedIn: Erwin Ligan
