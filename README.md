@@ -5,11 +5,9 @@
 
 I am seeking to be a developer someday and am currently self-studying Python.
 
-I believe the best way for me to learn Python is in the application of building games.
+I believe the best way for me to learn Python is to work on projects: Python Automation and Scripting.
 
-That is way I am going the Al Sweigart’s book Invent Your Own Computer Games with Python.
-
-- 🌱 Currently learning: Git and Github
+- 🌱 Currently learning: Automation and Scripting
 - 📫 How to reach me: erwin.ligan@icloud.com
 - ⚡ Fun fact: **I love to go for a walk in my neighborhood.
 
