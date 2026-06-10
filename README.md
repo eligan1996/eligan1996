@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I am seeking to be a developer someday and am currently self-studying Python.
+I am seeking to be a developer and am currently self-studying Python.
 
 I believe the best way for me to learn Python is to work on projects: Python Automation and Scripting.
 
